@@ -8,9 +8,7 @@
 
 ## 运维 <a id="maintenance"></a>
 
----
-
-* [常用网址](chang-yong-wang-zhi.md)
+* [常用网址](maintenance/chang-yong-wang-zhi.md)
 
 ## 研发 <a id="development-1"></a>
 
