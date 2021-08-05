@@ -2,19 +2,19 @@
 
 * [网管协会知识库](README.md)
 
-## 宣传 <a id="xuan-chuan-xin-xi"></a>
+## 宣传 <a id="publicity"></a>
 
-* [社团简介](xuan-chuan-xin-xi/she-tuan-jian-jie.md)
+* [社团简介](publicity/she-tuan-jian-jie.md)
 
-## 运维
+## 运维 <a id="maintenance"></a>
 
 ---
 
 * [常用网址](chang-yong-wang-zhi.md)
 
-## 研发 <a id="yan-fa-bu"></a>
+## 研发 <a id="development-1"></a>
 
-* [项目列表](yan-fa-bu/xiang-mu-lie-biao.md)
+* [项目列表](development-1/xiang-mu-lie-biao.md)
 
 ---
 
