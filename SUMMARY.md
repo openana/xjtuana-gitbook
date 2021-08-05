@@ -5,6 +5,7 @@
 ## 宣传 <a id="publicity"></a>
 
 * [社团简介](publicity/she-tuan-jian-jie.md)
+* [社团团徽](publicity/she-tuan-tuan-hui.md)
 
 ## 运维 <a id="maintenance"></a>
 
