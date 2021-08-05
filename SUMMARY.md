@@ -18,5 +18,6 @@
 
 ---
 
-* [ANA 主页](https://ana.xjtu.edu.cn/)
+* [ANA 社团主页](https://ana.xjtu.edu.cn/)
+* [OpenANA 代码仓库](https://github.com/openana)
 
