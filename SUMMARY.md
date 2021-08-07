@@ -6,6 +6,7 @@
 
 * [社团简介](publicity/she-tuan-jian-jie.md)
 * [社团团徽](publicity/she-tuan-tuan-hui.md)
+* [社团章程](publicity/she-tuan-zhang-cheng.md)
 
 ## 运维 <a id="maintenance"></a>
 
