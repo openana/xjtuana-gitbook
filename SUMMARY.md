@@ -2,8 +2,10 @@
 
 * [网管协会知识库](README.md)
 
-## 校园网络基础架构 <a id="xiao-yuan-wang-luo-ji-chu-zhi-shi"></a>
+## 校园网络基础信息 <a id="xiao-yuan-wang-luo-ji-chu-zhi-shi"></a>
 
+* [校内 DNS](xiao-yuan-wang-luo-ji-chu-zhi-shi/xiao-nei-dns.md)
+* [IP 信息](xiao-yuan-wang-luo-ji-chu-zhi-shi/ip-xin-xi.md)
 * [STU 无线](xiao-yuan-wang-luo-ji-chu-zhi-shi/stu-wu-xian.md)
 
 ## 宣传 <a id="publicity"></a>
