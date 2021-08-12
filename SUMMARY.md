@@ -18,10 +18,10 @@
 
 * [运维手册](maintenance/yun-wei-shou-ce.md)
 
-## 研发 <a id="development-1"></a>
+## 研发 <a id="development"></a>
 
-* [维护项目](development-1/xiang-mu-lie-biao.md)
-* [可用 API](development-1/ke-yong-api.md)
+* [维护项目](development/xiang-mu-lie-biao.md)
+* [可用 API](development/ke-yong-api.md)
 
 ---
 
