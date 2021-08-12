@@ -1,8 +1,8 @@
 # 社团团徽
 
-![](../.gitbook/assets/xjtuana-logo.png)
+![&#x4E3B;](../.gitbook/assets/xjtuana-logo.png)
 
-![](../.gitbook/assets/xjtuana-logo-red.png)
+![&#x7EA2;](../.gitbook/assets/xjtuana-logo-red.png)
 
-![](../.gitbook/assets/xjtuana-logo-blue.png)
+![&#x84DD;](../.gitbook/assets/xjtuana-logo-blue.png)
 
