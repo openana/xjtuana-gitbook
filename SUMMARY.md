@@ -2,6 +2,10 @@
 
 * [网管协会知识库](README.md)
 
+## 校园网络基础架构 <a id="xiao-yuan-wang-luo-ji-chu-zhi-shi"></a>
+
+* [STU 无线](xiao-yuan-wang-luo-ji-chu-zhi-shi/stu-wu-xian.md)
+
 ## 宣传 <a id="publicity"></a>
 
 * [社团简介](publicity/she-tuan-jian-jie.md)
