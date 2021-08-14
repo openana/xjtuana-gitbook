@@ -13,4 +13,9 @@
 | `202.117.0.0/18` | Xi'an JiaoTong University | 16328 |
 | `202.117.200.0/21` | Shaan Xi Institute of Finance and Economics | 2046 |
 |  |  | 149942 |
+| `2001:250:1001::/48` | Xi'an JiaoTong University | - |
+
+
+
+
 
