@@ -8,12 +8,13 @@
 | `219.245.128.0/19` | Xi'an Jiao Tong University | 8190 |
 | `115.154.0.0/16` | Xi'an Jiao Tong University | 65534 |
 | `58.206.96.0/19` | CERNET WLAN Campus Project at Xi'an Jiaotong University | 8190 |
-| `58.195.128.0/23` | The 2nd Hospital of Xi'An Jiaotong University | 510 |
+| `58.195.128.0/23` | The 2nd Affiliated Hospital of Xi'An Jiaotong University | 510 |
 | `202.117.208.0/20` | Xi'an JiaoTong University | 4094 |
 | `202.117.0.0/18` | Xi'an JiaoTong University | 16328 |
 | `202.117.200.0/21` | Shaan Xi Institute of Finance and Economics | 2046 |
 |  |  | 149942 |
-| `2001:250:1001::/48` | Xi'an JiaoTong University | - |
+
+
 
 
 
