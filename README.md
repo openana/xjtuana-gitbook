@@ -167,3 +167,5 @@ description: 西安交通大学学生网络管理协会
 
 **第三十三条** 本章程自发布之日起正式实施。
 
+{% file src=".gitbook/assets/xi-an-jiao-tong-da-xue-xue-sheng-wang-luo-guan-li-xie-hui-zhang-cheng-20201101.pdf" %}
+

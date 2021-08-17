@@ -45,5 +45,13 @@
 
 ![STU &#x7F51;&#x7EDC;&#x62D3;&#x6251;](../.gitbook/assets/image%20%286%29.png)
 
+## 相关文件
+
+### 技术资料
+
+{% file src="../.gitbook/assets/stu-shi-yong-fang-fa-wu-xian-tuo-pu-.docx" %}
+
+{% file src="../.gitbook/assets/h3c-wa6320h-shi-nei-mian-ban-xing-wu-xian-jie-ru-she-bei-chan-pin-cai-ye-.pdf" %}
+
 
 
